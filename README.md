@@ -1,4 +1,4 @@
-# first-demo
+# BMi calculator
 
 This is my first Git repository.
 <br/>
